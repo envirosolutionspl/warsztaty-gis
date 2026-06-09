@@ -1,0 +1,8 @@
+ with_variable( 
+	'a',  
+	second( now())*6,
+	 intersection(
+		@geometry, 
+		wedge_buffer( centroid( @geometry), @a/2, @a,  bounds_width( @geometry))
+		)
+)

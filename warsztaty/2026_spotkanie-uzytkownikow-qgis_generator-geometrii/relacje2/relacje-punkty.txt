@@ -1,0 +1,9 @@
+-- połączenie obiektów z różnych warstw linią
+make_line(
+	centroid(
+		geometry(
+			get_feature('dzialki', 'ID_DZIALKI', teryt)
+		)
+	),
+	$geometry
+)

@@ -1,0 +1,20 @@
+-- dla przecinających się
+
+intersection( 
+	@geometry ,
+	aggregate(
+		layer:='dzialki', 
+		aggregate:='collect', 
+		expression:=$geometry, filter:="GRUPA_REJESTROWA"=1
+	)
+)
+-- dla pozostałych
+
+difference( 
+	@geometry ,
+	aggregate(
+		layer:='dzialki', 
+		aggregate:='collect', 
+		expression:=$geometry
+	)
+)
