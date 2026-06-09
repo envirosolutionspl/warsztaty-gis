@@ -1,0 +1,7 @@
+buffer(
+	minimal_circle( 
+		@geometry,
+		500
+	),
+	-3
+)
