@@ -18,3 +18,15 @@ Jedyne czego potrzebujesz to komputer z QGISem (sugerowany QGIS 4). Wszystkie da
 #### 3.Wizualizacja granic stykających się poligonów
 [03_granice](03_granice)
 ![03_granice/granice.png](03_granice/granice.png)
+#### 4.Wizualizacja relacji przestrzennych między poligonami i liniami
+[04_relacje](04_relacje)
+![04_relacje/relacje-linie.png](04_relacje/relacje-linie.png)
+#### 5.Wizualizacja relacji przestrzennych między poligonami i punktami
+[05_relacje2](05_relacje2)
+![05_relacje2/relacje-punkty.png](05_relacje2/relacje-punkty.png)
+#### 6.Wizualizacja wielokrotneg geometrii dla linii na podstawie atrybutów
+[06_linie](06_linie)
+![06_linie/linie-ilosc.png](06_linie/linie-ilosc.png)
+#### 7.Wizualizacja poligonu jako zegara sekundowego
+[07_zegar](07_zegar)
+![07_zegar/polska-zegar.gif](07_zegar/polska-zegar.gif)
