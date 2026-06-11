@@ -1,5 +1,7 @@
-# Warsztaty Symbolizacja na sterydach: Magia w Generatorze Geometrii
-Materiały na warsztaty "Symbolizacja na sterydach: Magia w Generatorze Geometrii" w ramach V Spotkania Użytkowników QGIS 2026 w łodzi.
+# Warsztaty Symbolizacja na sterydach: Magia w Generatorze Geometrii (Prowadzący: Michał Włoga)
+Materiały na warsztaty "Symbolizacja na sterydach: Magia w Generatorze Geometrii" w ramach V Spotkania Użytkowników QGIS 2026 w Łodzi.
+
+Data warsztatów: 25.06.2026 r.
 
 ![suq.jpg](suq.jpg)
 
