@@ -1,0 +1,151 @@
+lp;data_zgloszenia;miejscowosc;ulica;nr_domu;oferta;kanal
+1;2026-06-21;PRZEBIECZANY;KS. POPIEŁUSZKI;131;600 Mb/s;telefon
+2;2026-08-25;Niepołomice;Jagodowa;22;1 Gb/s;telefon
+3;2026-08-20;Wieliczka;Łąkowa;76;300 Mb/s;telefon
+4;2026-10-04;Szarów;Jana Pawła II;11;300 Mb/s;formularz WWW
+5;2026-07-15;Wola Zabierzowska;Strażacka;31;1 Gb/s;e-mail
+6;2026-06-01;Zręczyce;Kolejowa;182;600 Mb/s;formularz WWW
+7;2026-08-11;Koźmice Wielkie;Ogrodowa;88;300 Mb/s;biuro
+8;2026-08-16;Zręczyce;Cicha;13;300 Mb/s;biuro
+9;2026-09-18;Zręczyce;Kolejowa;83;300 Mb/s;telefon
+10;2026-06-22;Koźmice Wielkie;Ogrodowa;141;1 Gb/s;biuro
+11;2026-07-07;Bodzanów;Wiejska;193;1 Gb/s;e-mail
+12;2026-07-05;Koźmice Wielkie;Ogrodowa;235;300 Mb/s;biuro
+13;2026-09-04;Dobranowice;;21;300 Mb/s;biuro
+14;2026-08-22;Bodzanów;ul. Wiejska;183;600 Mb/s;telefon
+15;2026-09-01; Wieliczka  ;Lipowa;7;1 Gb/s;telefon
+16;2026-06-12;Szarów;Jana Pawła II;248c;600 Mb/s;biuro
+17;2026-09-23;Brzezie;Akacjowa;262;1 Gb/s;telefon
+18;2026-10-05;Koźmice Wielkie;ul. Krótka;56;1 Gb/s;telefon
+19;2026-08-11;Śledziejowice;Niepołomicka;59;1 Gb/s;e-mail
+20;2026-07-19;Zakrzów;Słowackiego;36;1 Gb/s;formularz WWW
+21;2026-06-01;Koźmice Wielkie;Krótka;10;1 Gb/s;formularz WWW
+22;2026-07-17;Zręczyce;os. Kolejowa;235;1 Gb/s;telefon
+23;2026-09-14;Zręczyce;Kolejowa;321;300 Mb/s;formularz WWW
+24;2026-06-09;Szarów;Jana Pawła II;74;600 Mb/s;formularz WWW
+25;2026-10-12;Zręczyce;Kolejowa;319;600 Mb/s;biuro
+26;2026-06-18;Zręczyce;Kolejowa;108;300 Mb/s;e-mail
+27;2026-06-13;Kłaj;Krakowska;270;1 Gb/s;telefon
+28;2026-07-27;Koźmice Wielkie;Lipowa;70;300 Mb/s;biuro
+29;2026-08-08;Zręczyce;Kolejowa;13;300 Mb/s;e-mail
+30;2026-10-08;Wieliczka;Szkolna;109c;600 Mb/s;biuro
+31;2026-06-03;Zręczyce;Kolejowa;294;1 Gb/s;e-mail
+32;2026-07-15;Wieliczka;Kościelna;92;300 Mb/s;formularz WWW
+33;2026-07-18;Niegowić;Słoneczna;67;600 Mb/s;formularz WWW
+34;2026-07-13;Szarów;Jana Pawła II;240;300 Mb/s;e-mail
+35;2026-10-16;Zręczyce;Kolejowa;16;600 Mb/s;telefon
+36;2026-07-04; Szczytniki  ;;130;600 Mb/s;e-mail
+37;2026-07-18;Fałkowice;;40;1 Gb/s;telefon
+38;2026-07-14;Koźmice Wielkie;Ogrodowa;175;300 Mb/s;formularz WWW
+39;2026-07-08;Szarów;Jana Pawła II;164;1 Gb/s;e-mail
+40;2026-07-27;Grabówki;Szkolna;10;1 Gb/s;biuro
+41;2026-08-21;Koźmice Wielkie;Ogrodowa;;600 Mb/s;formularz WWW
+42;2026-07-26;Podłęże;Zielona;221;1 Gb/s;biuro
+43;2026-06-09;Zręczyce;Kolejowa;200;300 Mb/s;biuro
+44;2026-09-05;Szarów;Jana Pawła II;236;300 Mb/s;formularz WWW
+45;2026-07-28;Wola Batorska;Sienkiewicza;27;600 Mb/s;e-mail
+46;2026-09-04;Klęczana;;28;300 Mb/s;formularz WWW
+47;2026-09-02;Szarów;Jana Pawła II;51;1 Gb/s;biuro
+48;2026-07-19;Szarów;Jana Pawła II;133;600 Mb/s;e-mail
+49;2026-06-24;Niepołomice;Krótka;7;300 Mb/s;biuro
+50;2026-09-25;Szarów;Jana Pawła II;83;600 Mb/s;biuro
+51;2026-08-16;Podłęże;ul. Krótka;35;300 Mb/s;formularz WWW
+52;2026-10-14;Węgrzce Wielkie;Kościelna;178;1 Gb/s;biuro
+53;2026-09-17;Koźmice Wielkie;Ogrodowa;224;600 Mb/s;e-mail
+54;2026-06-20;Wieliczka;Krótka;83;600 Mb/s;biuro
+55;2026-08-27;Węgrzce Wielkie;Kościelna;56;600 Mb/s;telefon
+56;2026-10-25;Szarów;Jana Pawła II;100;300 Mb/s;telefon
+57;2026-09-14;Zręczyce;Kolejowa;103;1 Gb/s;formularz WWW
+58;2026-09-20;Szarów;Jana Pawła II;221;1 Gb/s;e-mail
+59;2026-09-14;Zręczyce;Kolejowa;92;1 Gb/s;telefon
+60;2026-06-06;Zręczyce;Kolejowa;138;300 Mb/s;biuro
+61;2026-09-28;Niepołomice;Cicha;19 A;300 Mb/s;biuro
+62;2026-06-12;Brzezie;Akacjowa;284;300 Mb/s;e-mail
+63;2026-08-03;Zakrzów;Słowackiego;30;600 Mb/s;telefon
+64;2026-09-09;Zręczyce;Kolejowa;272;300 Mb/s;biuro
+65;2026-10-21;Zręczyce;Myśliwska;34;1 Gb/s;biuro
+66;2026-08-20;Zręczyce;Myśliwska;5;300 Mb/s;biuro
+67;2026-06-04;Koźmice Wielkie;Krótka;60;300 Mb/s;formularz WWW
+68;2026-08-25;Szarów;Topolowa;26;600 Mb/s;telefon
+69;2026-08-08;Lednica Górna;Rolnicza;20;600 Mb/s;biuro
+70;2026-09-02;Wieliczka;Piłsudskiego;32;1 Gb/s;formularz WWW
+71;2026-10-06;Krzyworzeka;Malinowa;175;600 Mb/s;telefon
+72;2026-06-02;Wieliczka;Słoneczna;80;300 Mb/s;formularz WWW
+73;2026-10-08;Śledziejowice;Niepołomicka;135;1 Gb/s;e-mail
+74;2026-07-28;Wieliczka;Cicha;99;1 Gb/s;telefon
+75;2026-06-15;Zręczyce;Kolejowa;301;1 Gb/s;formularz WWW
+76;2026-09-05;Zręczyce;Kolejowa;68;600 Mb/s;telefon
+77;2026-06-09;Niepołomice;Szkolna;105;1 Gb/s;formularz WWW
+78;2026-08-20;Brzezie;Spacerowa;53;1 Gb/s;e-mail
+79;2026-10-22;Wieliczka;Piłsudskiego;103;600 Mb/s;formularz WWW
+80;2026-09-22;Wieliczka;Kościelna;82;300 Mb/s;formularz WWW
+81;2026-08-07;Podłęże;Zielona;203;600 Mb/s;e-mail
+82;2026-07-21;Szarów;Topolowa;22;600 Mb/s;e-mail
+83;2026-09-17;Wieliczka;Słoneczna;144;600 Mb/s;formularz WWW
+84;2026-06-18;Szarów;Jana Pawła II;142;1 Gb/s;telefon
+85;2026-06-07;Zręczyce;Kolejowa;267;300 Mb/s;biuro
+86;2026-07-07;Szarów;Jana Pawła II;1;300 Mb/s;biuro
+87;2026-08-13;Zręczyce;Kolejowa;188;600 Mb/s;biuro
+88;2026-06-05;Staniątki;Świętej Kinig;207;300 Mb/s;formularz WWW
+89;2026-08-15;Szarów;Jana Pawła II;165;300 Mb/s;telefon
+90;2026-08-25;Zręczyce;Myśliwska;59;600 Mb/s;e-mail
+91;2026-10-21;Zręczyce;Kolejowa;18c;600 Mb/s;biuro
+92;2026-08-26;Koźmice Wielkie;Ogrodowa;149;300 Mb/s;e-mail
+93;2026-08-19;Zręczyce;Kolejowa;214;600 Mb/s;formularz WWW
+94;2026-09-17;Koźmice Wielkie;Ogrodowa;238;300 Mb/s;telefon
+95;2026-07-12;Koźmice Wielkie;Krótka;44;300 Mb/s;biuro
+96;2026-06-01;Wieliczka;Wiejska;1;600 Mb/s;telefon
+97;2026-09-27;Trąbki;Reymonta;85;600 Mb/s;e-mail
+98;2026-07-23;Zręczyce;Cicha;9 A;300 Mb/s;e-mail
+99;2026-07-21;Zręczyce;Kolejowa;28;600 Mb/s;biuro
+100;2026-06-02;Zręczyce;Kolejowa;151;300 Mb/s;e-mail
+101;2026-10-06;Szarów;Jana Pawła II;47;1 Gb/s;formularz WWW
+102;2026-06-22;Śledziejowice;Niepołomicka;46;300 Mb/s;telefon
+103;2026-09-24;Szarów;Kasztanowa;28;1 Gb/s;telefon
+104;2026-07-14;Węgrzce Wielkie;Kościelna;158;300 Mb/s;formularz WWW
+105;2026-10-21;Szarów;Długa;60;300 Mb/s;e-mail
+106;2026-08-23;Zręczyce;Kolejowa;122;1 Gb/s;biuro
+107;2026-09-03;Wiatowice;;49a;1 Gb/s;e-mail
+108;2026-08-13;ŁYSOKANIE;;48;1 Gb/s;telefon
+109;2026-09-22;Szarów;Długa;43;300 Mb/s;formularz WWW
+110;2026-08-05;Wieliczka;Kolejowa;68;1 Gb/s;biuro
+111;2026-08-05;Wieliczka;Jesionowa;84;600 Mb/s;telefon
+112;2026-10-07;Szarów;Jana Pawła II;111;1 Gb/s;telefon
+113;2026-06-19;Zręczyce;Cicha;15;1 Gb/s;biuro
+114;2026-09-12;Zręczyce;Myśliwska;57;600 Mb/s;biuro
+115;2026-09-03;Szarów;Jana Pawła II;49;300 Mb/s;formularz WWW
+116;2026-06-28;Biskupice;Krakowska;10;300 Mb/s;biuro
+117;2026-06-18;Szarów;Długa;21;600 Mb/s;biuro
+118;2026-08-12;Zręczyce;Kolejowa;81;1 Gb/s;e-mail
+119;2026-08-18;Wieliczka;Kwiatowa;96;600 Mb/s;biuro
+120;2026-06-24;Wieliczka;Reymonta;39;1 Gb/s;biuro
+121;2026-08-25;Wieliczka;Krakowska;339;600 Mb/s;biuro
+122;2026-07-01;Zręczyce;Kolejowa;158;1 Gb/s;e-mail
+123;2026-09-26;Zręczyce;Kolejowa;130;300 Mb/s;formularz WWW
+124;2026-10-10;Wieliczka;Szkolna;60;1 Gb/s;e-mail
+125;2026-06-04;Koźmice Wielkie;Lipowa;58;600 Mb/s;telefon
+126;2026-06-01;Sułków;Sadowa;110;600 Mb/s;e-mail
+127;2026-08-16;Koźmice Wielkie;Ogrodowa;303;1 Gb/s;e-mail
+128;2026-08-18;Wieliczka;Długa;14;1 Gb/s;e-mail
+129;2026-10-09;Siercza;Wiejska;174;600 Mb/s;telefon
+130;2026-06-10;Koźmice Wielkie;Lipowa;80;1 Gb/s;telefon
+131;2026-06-07;Koźmice Wielkie;Krótka;4;300 Mb/s;biuro
+132;2026-06-11;Niegowić;ul. Słoneczna;138;300 Mb/s;e-mail
+133;2026-10-11;Wieliczka;Kościelna;66;1 Gb/s;biuro
+134;2026-07-28;Szarów;Jana Pawła II;71;1 Gb/s;biuro
+135;2026-06-05;Koźmice Wielkie;Ogrodowa;64;600 Mb/s;biuro
+136;2026-08-10;Wieliczka;Słowackiego;21;1 Gb/s;biuro
+137;2026-06-09;Szarów;Jana Pawła II;263;600 Mb/s;formularz WWW
+138;2026-10-17;Podłęże;Zielona;178;300 Mb/s;biuro
+139;2026-09-20;Podłęże;Zielona;236;600 Mb/s;biuro
+140;2026-06-01;Szarów;Długa;14;300 Mb/s;biuro
+141;2026-08-14;Raciborsko;Kościelna;18;600 Mb/s;telefon
+142;2026-09-04;Szarów;Jana Pawła II;114;1 Gb/s;telefon
+143;2026-06-06; Zręczyce  ;Kolejowa;207;1 Gb/s;telefon
+144;2026-08-13;Niepołomice;Cicha;87;1 Gb/s;biuro
+145;2026-07-14;KOŹMICE WIELKIE;OGRODOWA;308;600 Mb/s;e-mail
+146;2026-06-14;Koźmice Wielkie;Ogrodowa;247;600 Mb/s;biuro
+147;2026-08-07;Zręczyce;Cicha;23;300 Mb/s;e-mail
+148;2026-07-09;Koźmice Wielkie;Krótka;41;1 Gb/s;biuro
+149;2026-07-27;Zabłocie;Łąkowa;69;300 Mb/s;formularz WWW
+150;2026-08-26;Koźmice Wielkie;Rolnicza;14;300 Mb/s;e-mail

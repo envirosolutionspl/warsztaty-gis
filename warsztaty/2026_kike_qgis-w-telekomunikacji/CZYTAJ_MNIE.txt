@@ -1,0 +1,25 @@
+WARSZTAT QGIS – KIKE 2026
+Zaawansowane możliwości QGIS w pracy przedsiębiorstwa telekomunikacyjnego
+17.11.2026, 16:00–18:00, Sala M · prowadzący: Michał Włoga (EnviroSolutions)
+
+1. Skopiuj cały folder na dysk (nie pracuj na pendrivie).
+2. Otwórz instrukcję: 20261117_KIKE_warsztat_QGIS_instrukcja-v.1.1.pdf
+3. W QGIS 3.44 LTR otwórz projekty/00_start.qgz i pracuj według instrukcji.
+
+Struktura folderu
+  dane/        wielnet.gpkg (dane operatora WielNET, EPSG:2180), zgloszenia.csv (150 adresów)
+  projekty/    00_start.qgz – początek; 01–05 – punkty kontrolne po zadaniach; 08 – generator geometrii
+  wyniki/      wyniki.gpkg – gotowe wyniki zadań; karty_wezlow/ – przykładowe karty z atlasu (PDF)
+  modele/      potencjal_wezla.model3 – model z zadania 4
+  sql/         zapytania do warstw wirtualnych (zadanie 3)
+  python/      potencjal_seria.py – skrypt z zadania 6
+  wydruk/      karta_wezla.qpt – szablon wydruku (zadanie 5), logo
+  style/       style QML z generatorem geometrii (pokaz 8)
+
+Wszystkie zadania działają bez internetu.
+
+Dane są fikcyjne: granice gmin pochodzą z PRG (GUGiK, uproszczone, za repozytorium
+github.com/waszkiewiczja/GeoJSON-Polska-Wojewodztwa-Powiaty-Gminy); nazwy miejscowości są prawdziwe,
+a położenie budynków, adresy, sieć, klienci i zgłoszenia zostały wygenerowane na potrzeby warsztatu.
+
+EnviroSolutions Sp. z o.o. · systemy i narzędzia OpenSource GIS · office@envirosolutions.pl
