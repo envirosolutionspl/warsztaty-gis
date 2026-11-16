@@ -11,13 +11,17 @@ Warsztaty będą obejmowały praktyczne przykłądy z wykorzystania generatora g
 ### Co potrzebujesz na warsztaty?
 Jedyne czego potrzebujesz to komputer z QGISem (sugerowany QGIS 4). Wszystkie dane i przykłady znajdziesz w tym repozytorium.
 
+### Pobranie materiałów
+Gotowa paczka ZIP jest w [Release tych warsztatów](https://github.com/envirosolutionspl/warsztaty-gis/releases/tag/2026_spotkanie-uzytkownikow-qgis_generator-geometrii).
+Plik `powiaty.gpkg` (35 MB) do ćwiczenia 1 jest dołączony tylko do Release – pobierz go i umieść w katalogu `01_bufory`.
+
 ### Ćwiczenia
 #### 1.Przykład z buforami
 [01_bufory](01_bufory)
 ![01_bufory/bufory-poligony.png](01_bufory/bufory-poligony.png)
 #### 2.Wizualizacja poligonów za pomocą okręgów
-[02_wizualizacja punktowa](02_wizualizacja%20punktowa)
-![02_wizualizacja punktowa/punktowa.png](02_wizualizacja%20punktowa/punktowa.png)
+[02_wizualizacja-punktowa](02_wizualizacja-punktowa)
+![02_wizualizacja-punktowa/punktowa.png](02_wizualizacja-punktowa/punktowa.png)
 #### 3.Wizualizacja granic stykających się poligonów
 [03_granice](03_granice)
 ![03_granice/granice.png](03_granice/granice.png)
@@ -33,3 +37,6 @@ Jedyne czego potrzebujesz to komputer z QGISem (sugerowany QGIS 4). Wszystkie da
 #### 7.Wizualizacja poligonu jako zegara sekundowego
 [07_zegar](07_zegar)
 ![07_zegar/polska-zegar.gif](07_zegar/polska-zegar.gif)
+
+### Źródła danych i licencje
+Zobacz [ZRODLA.md](ZRODLA.md). Materiały udostępniane są na licencji [CC BY-NC 4.0](../../LICENSE).
