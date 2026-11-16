@@ -10,6 +10,7 @@ prowadzonych przez [EnviroSolutions](https://envirosolutions.pl).
 | 2026 | KIKE 2026 (17.11.2026) | Zaawansowane możliwości QGIS w pracy przedsiębiorstwa telekomunikacyjnego | [katalog](warsztaty/2026_kike_qgis-w-telekomunikacji) | [Release](https://github.com/envirosolutionspl/warsztaty-gis/releases/tag/2026_kike_qgis-w-telekomunikacji) |
 | 2026 | V Spotkanie Użytkowników QGIS, Łódź (25.06.2026) | Symbolizacja na sterydach: magia w generatorze geometrii | [katalog](warsztaty/2026_spotkanie-uzytkownikow-qgis_generator-geometrii) | [Release](https://github.com/envirosolutionspl/warsztaty-gis/releases/tag/2026_spotkanie-uzytkownikow-qgis_generator-geometrii) |
 | 2025 | IV Spotkanie Użytkowników QGIS, Łódź | Lizmap Web Client: tworzenie i publikowanie projektów QGIS w sieci | [katalog](warsztaty/2025_spotkanie-uzytkownikow-qgis_lizmap) | [Release](https://github.com/envirosolutionspl/warsztaty-gis/releases/tag/2025_spotkanie-uzytkownikow-qgis_lizmap) |
+| 2023 | GIS Day w Stolicy 2023, SGGW Warszawa (23.11.2023) | Warstwy wirtualne w QGIS – praktyczne wykorzystanie | [katalog](warsztaty/2023_gis-day-w-stolicy_warstwy-wirtualne) | [Release](https://github.com/envirosolutionspl/warsztaty-gis/releases/tag/2023_gis-day-w-stolicy_warstwy-wirtualne) |
 
 ## Jak pobrać materiały
 
