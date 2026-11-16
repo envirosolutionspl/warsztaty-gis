@@ -1,0 +1,48 @@
+name: Paczka warsztatów
+
+# Tag = nazwa katalogu z warsztaty/, opcjonalnie z wersją, np.:
+#   2026_kike_qgis-w-telekomunikacji
+#   2026_kike_qgis-w-telekomunikacji-v.1.1
+on:
+  push:
+    tags: ['20*']
+
+permissions:
+  contents: write
+
+jobs:
+  paczka:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ustal katalog warsztatów
+        id: kat
+        run: |
+          TAG="${GITHUB_REF_NAME}"
+          KATALOG="${TAG%-v.*}"
+          if [ ! -d "warsztaty/$KATALOG" ]; then
+            echo "::error::Brak katalogu warsztaty/$KATALOG dla tagu $TAG"
+            exit 1
+          fi
+          echo "katalog=$KATALOG" >> "$GITHUB_OUTPUT"
+
+      - name: Spakuj materiały
+        run: |
+          mkdir -p dist
+          cp LICENSE LICENSE-CODE "warsztaty/${{ steps.kat.outputs.katalog }}/"
+          cd warsztaty
+          zip -rq "../dist/${GITHUB_REF_NAME}.zip" "${{ steps.kat.outputs.katalog }}"
+
+      - name: Utwórz lub zaktualizuj Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ZIP="dist/${GITHUB_REF_NAME}.zip"
+          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" "$ZIP" --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" "$ZIP" \
+              --title "$GITHUB_REF_NAME" \
+              --notes "Materiały warsztatów: [warsztaty/${{ steps.kat.outputs.katalog }}](https://github.com/${GITHUB_REPOSITORY}/tree/${GITHUB_REF_NAME}/warsztaty/${{ steps.kat.outputs.katalog }}). Pobierz plik ZIP poniżej."
+          fi

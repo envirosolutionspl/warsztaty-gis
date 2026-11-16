@@ -1,0 +1,14 @@
+name: Kontrola
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  sprawdz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sprawdź nazwy, rozmiary, wymagane pliki i ścieżki
+        run: bash .github/scripts/sprawdz.sh

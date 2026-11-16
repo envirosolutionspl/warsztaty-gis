@@ -1,0 +1,18 @@
+# Pliki tymczasowe QGIS
+*.qgs~
+*.qgz~
+*.gpkg-wal
+*.gpkg-shm
+*.gpkg-journal
+
+# Python
+__pycache__/
+*.pyc
+
+# Systemowe
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Paczki tworzone lokalnie lub przez workflow
+/dist/
