@@ -1,0 +1,9 @@
+intersection( 
+	@geometry ,
+	aggregate(
+		layer:='dzialki', 
+		aggregate:='collect', 
+		expression:= $geometry, 
+		filter:="fid" <> attribute(@parent, 'fid')
+	)
+)

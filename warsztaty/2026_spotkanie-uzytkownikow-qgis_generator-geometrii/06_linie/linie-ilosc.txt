@@ -1,0 +1,15 @@
+-- linie według ilosci z atrybutow
+collect_geometries(
+  array_foreach(
+    generate_series(1, "ilosc"),
+    offset_curve(
+      $geometry,
+      case
+        when "ilosc" % 2 = 1 then  -- nieparzysta: środek=0 (oryginał)
+          (@element - ("ilosc" + 1) / 2) * 10
+        else  -- parzysta: symetrycznie względem środka, bez oryginału
+          (@element - "ilosc" / 2 - 0.5) * 10
+      end
+    )
+  )
+)
